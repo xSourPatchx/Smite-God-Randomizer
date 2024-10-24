@@ -1,7 +1,1 @@
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/xSourPatchx/giphyfiledirectory
+[logo]: https://github.com/xSourPatchx/Smite-God-Randomizer/giphy.mp4
