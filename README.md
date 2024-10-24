@@ -1,1 +1,1 @@
-[logo]: https://github.com/xSourPatchx/Smite-God-Randomizer/blob/main/giphy.mp4
+![](https://github.com/xSourPatchx/Smite-God-Randomizer/blob/main/giphy.mp4)
