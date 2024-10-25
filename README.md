@@ -1,2 +1,1 @@
-[logo]: [https://giphy.com/gifs/F7Y0u0wTk9v0bh6v1Q](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxxc3VmYm92c3d1bjdzd2Jmb2Yxbjd0dGNxdWN4aWd6YW01dDJhdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F7Y0u0wTk9v0bh6v1Q/giphy.gif) "Logo Title Text 2"
-![]([https://giphy.com/gifs/F7Y0u0wTk9v0bh6v1Q](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxxc3VmYm92c3d1bjdzd2Jmb2Yxbjd0dGNxdWN4aWd6YW01dDJhdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F7Y0u0wTk9v0bh6v1Q/giphy.gif))
+![](https://github.com/xSourPatchx/Smite-God-Randomizer/blob/main/giphy.gif)
