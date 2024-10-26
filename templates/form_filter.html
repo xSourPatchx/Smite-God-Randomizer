@@ -1,0 +1,22 @@
+{% extends "index.html" %} {% block content %}
+<form action="" method="post">
+  {{ form.csrf_token }}
+  <fieldset>
+    <legend>Smite God Filter</legend>
+    <div style="font-size: 20px" margin-left:20px;>
+      {{ form.pantheon.label }}<br />
+      {{ form.pantheon }}<br />
+      {{ form.attackType.label }}<br />
+      {{ form.attackType }}<br />
+      {{ form.powerType.label }}<br />
+      {{ form.powerType }}<br />
+      {{ form.classType.label }}<br />
+      {{ form.classType }}<br />
+      {{ form.difficulty.label }}<br />
+      {{ form.difficulty }}<br />
+
+      {{ form.submit }}
+    </div>
+  </fieldset>
+</form>
+{% endblock %}

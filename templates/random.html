@@ -1,0 +1,25 @@
+{% extends "index.html" %}
+{% block content %}
+<h1>Your Random God Is...</h1>
+
+<style>
+h2 {
+  border: 2px solid black;
+  padding: 30px;
+  color: black;
+  font-family: Tahoma, Verdana, sans-serif;
+  font-style: italic;
+  font-size: 200%;
+}
+</style>
+
+<div>
+  <h2>
+    {{ random_choice }}<br />
+  </h2>
+</div>
+<br></br>
+<div>
+  <a href="/">Back to previous page</a>
+</div>
+{% endblock %}
